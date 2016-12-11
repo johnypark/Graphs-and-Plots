@@ -20,3 +20,5 @@ ggpairs(data, lower = list(continuous = my_fn))
 
 ```
 ![Image of figure1](https://github.com/johnypark/R_graph/issues/1)
+
+Question: How can I put correlation values on the lower triangle, and regression plots on the upper triangle?
