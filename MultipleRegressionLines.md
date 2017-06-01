@@ -1,4 +1,4 @@
-# R_graph
+# Multiple_regression_lines
 Retrieved from:
 https://www.r-bloggers.com/multiple-regression-lines-in-ggpairs/
 
