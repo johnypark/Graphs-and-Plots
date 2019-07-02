@@ -30,5 +30,5 @@ my_fn <- function(data, mapping, ...){
 ggpairs(data, lower = list(continuous = my_fn))
 
 ```
-![Image of figure1](https://github.com/johnypark/R_graph/issues/1)
+![Image of figure1](https://github.com/johnypark/Graphs-and-Plots/blob/master/RegressionResult(1).pdf)
 
